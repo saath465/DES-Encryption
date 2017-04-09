@@ -8,7 +8,7 @@ CBC_mode,
 OFB_mode,
 CTR_mode,
 SdesEncrypt (for encryption and decryption),
-DES (for all operations from input to output)...
+DES_modes (for all operations from input to output)...
 #load all modules in the eclipse environment and execute DES module.
 Input format ::: abcdefghij 1110001110.
 
