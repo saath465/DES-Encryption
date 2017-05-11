@@ -15,6 +15,10 @@ DES_modes (for all operations from input to output)...
 Input format ::: abcdefghij 1110001110.
 
 # Stegnography Technique
+Python Codes: 
+steg_final.py
+dec.py
+mesg_encode.py
 The program is used to embed information in a .png image file by checking the hex values of the 
 Blue color range of the r,g,b pixels.
 The assoiciated programs are used to convert the string to binary and back to string after decoding.
