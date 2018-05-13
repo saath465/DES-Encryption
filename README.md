@@ -24,3 +24,8 @@ Blue color range of the r,g,b pixels.
 The assoiciated programs are used to convert the string to binary and back to string after decoding.
 Input Format : abcdefghijklmnopqrstuvwxyz 1234567890.
 
+# DLL Injection
+The dll injection program in written in C++ language and uses the process ID of the process intendeed to inject the DLL with and the path to the dll build file.
+The programs are built in Visual Studio 2015, and built to a release version.
+The usage of the program is:  ./malware.exe "dll_path" "PID"
+The programs are: malware_injection.cpp and Dll_injection.cpp
